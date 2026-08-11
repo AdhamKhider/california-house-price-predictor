@@ -638,7 +638,7 @@ with tab_about:
         """)
         
         st.markdown("### 👥 The Team")
-        st.info("- Mohamed Hisham Sukar\n- Adham Abd-Rahman Mahmoud\n- Mohamed Sobhy Mohamed Foaud\n- AbdolRahman Mohamed Asem\n- Mina Bassem Samir Daniel")
+        st.info("- Adham Abd-Rahman Mahmoud\n- May Waled Mohamed \n- Nada Mohamed Sobhy")
         
     with col_a2:
         st.markdown("#### Tech Stack")

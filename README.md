@@ -28,11 +28,16 @@ After testing various algorithms, **XGBoost** outperformed the others, providing
 1. **Data Preprocessing:** Handling missing values, log-transforming skewed features (like house values), and encoding categorical variables.
 2. **Correlation Analysis:** Utilizing heatmaps to identify multicollinearity and select the most impactful features.
 3. **Model Training & Comparison:** Benchmarking models against each other to find the optimal balance between accuracy and computational efficiency.
-4. **App Deployment:** Wrapping the best-performing XGBoost model into a Streamlit script for real-time inference.
+4. **App Deployment:** Wrapping the best-performing XGBoost model into a Streamlit script for real-time inference.on this link
+   ```bash
+   https://california-house-price-predictor-qgh9aonqbtukt6d6ytnwgd.streamlit.app/
 
 ## How to Run the App Locally
 To run the interactive web application on your local machine, follow these steps:
 
 1. Clone this repository:
    ```bash
-   git clone [https://github.com/YourUsername/california-housing-predictor.git](https://github.com/YourUsername/california-housing-predictor.git)
+   git clone [https://github.com/AdhamKhider/california-housing-predictor.git](https://github.com/AdhamKhider/california-housing-predictor.git)
+
+
+   
